@@ -1,0 +1,25 @@
+body{
+	background-color: rgb(200,200,200);
+}
+
+h1{
+	color: black;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.contain{
+	background-color: rgb(128,128,128);
+	width: 1000px;
+	height: auto;
+}
+
+#information{
+	height: 150px;
+	margin-right: auto;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
