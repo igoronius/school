@@ -1,0 +1,38 @@
+#head{
+	width: 1500px;
+	height: 200px;
+	background-color: blue;
+
+}
+#body{
+	float: left;
+	width: 1000px;
+	height: 1000px;
+	background-color: yellow;
+
+
+}
+#la{
+	float: left;
+	width: 250px;
+	height: 1000px;
+	background-color: red;
+
+
+}
+#ra{
+	float: left;
+	width: 250px;
+	height: 1000px;
+	background-color: green;
+
+
+}
+#foot{
+	color: white;
+	float: left;
+	width: 1500px;
+	height: 200px;
+	background-color: black;
+
+}
